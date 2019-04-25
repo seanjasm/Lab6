@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Week1\Lab6\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.exe.config
+C:\Users\User\source\repos\Week1\Lab6\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.exe
+C:\Users\User\source\repos\Week1\Lab6\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.pdb
+C:\Users\User\source\repos\Week1\Lab6\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week1\Lab6\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.exe
+C:\Users\User\source\repos\Week1\Lab6\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.pdb
+C:\Users\User\source\repos\Week1\Lab6\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.csprojAssemblyReference.cache
